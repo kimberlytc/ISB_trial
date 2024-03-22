@@ -10,14 +10,13 @@
 
 ---
 ##<a name="integrantes"></a>Integrantes:
-![img](Hardware/wsp.png)
+![img](Hardware/art-light-bulbs-desktop-n4s5k4zmpgj2mg4g.jpg)
+
 ###### Después lo ponemos más serio (no tenemos fotos juntos)
 | **Integrante** | **Correo**|
 | ---------| ----------|
-| Nadira Oviedo | nadira.oviedo@upch.pe |
-| Alvaro Cigarán | alvaro.cigaran@upch.pe |
 | Kimberly Tito | kimberly.tito@upch.pe |
-| Bruno Tello | gustavo.tello@upch.pe |
+
   
 ---
 ## <a name="proyecto"></a>Proyecto:
