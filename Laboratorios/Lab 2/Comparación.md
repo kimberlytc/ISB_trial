@@ -5,3 +5,7 @@ Carácterísticas y comparación:
 Frecuencia= 1KHz
 Forma= sinusoidal
 Vpp=5V, offset= 0V
+
+<p align="center">
+  <img src="Hardware/sinusoidal.jpeg">
+</p>
