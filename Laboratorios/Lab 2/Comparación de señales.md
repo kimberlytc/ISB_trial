@@ -1,1 +1,1 @@
-#Generación de señales
+Generación de señales
