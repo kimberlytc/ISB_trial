@@ -12,7 +12,7 @@ Vpp=5V, offset= 0V
 
 
 ## Código Arduino
-
+```
 const int analogPin = A0; // Define la constante analogPin como el pin A0, 
 //que será utilizado para leer la señal analógica.
 
@@ -44,3 +44,5 @@ void loop() {
   }
 
 }
+
+```
